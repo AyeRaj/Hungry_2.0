@@ -419,6 +419,7 @@ nav .content .links {
 
 /* Special Items */
 #specials-items {
+    margin-top: 40px;
     background-color: rgb(26, 7, 7);
 }
 
