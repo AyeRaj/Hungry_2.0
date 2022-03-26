@@ -50,7 +50,7 @@ html {
     display: flex;
     max-width: calc(100% - 200px);
     margin: 0 auto;
-    height: 50px;
+    height: 60px;
     align-items: center;
     justify-content: space-between;
 }
@@ -241,7 +241,7 @@ nav .content .links {
         background: #242424;
         height: 100%;
         width: 100%;
-        top: 50px;
+        top: 60px;
         left: -100%;
         margin-left: 0;
         max-width: 220px;
