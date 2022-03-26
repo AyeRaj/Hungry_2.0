@@ -343,7 +343,7 @@ nav .content .links {
 #home {
     display: flex;
     flex-direction: column;
-    height: 400px;
+    height: 430px;
     justify-content: center;
 }
 
@@ -351,7 +351,7 @@ nav .content .links {
     content: "";
     position: absolute;
     background: url('https://b.zmtcdn.com/mx-onboarding-hero87f77501659a5656cad54d98e72bf0d81627911821.webp') no-repeat center center/cover;
-    height: 400px;
+    height: 430px;
     top: 48px;
     left: 0px;
     width: 100%;
@@ -382,8 +382,8 @@ nav .content .links {
 }
 
 #items .box {
-    box-shadow: 0px 0px 20px -5px;
-    border: 4px inset rgb(206, 206, 206);
+    box-shadow: 0px 0px 20px -10px;
+    border: 4px inset #fc8019;
     width: 275px;
     height: 300px;
     border-radius: 15px;
@@ -476,7 +476,7 @@ footer {
 
 .btn2 {
     padding: 4px 10px;
-    background-color: #000000;
+    background-color: #fc8019;
     color: white;
     margin-bottom: 10px;
     margin-top: 10px;
@@ -484,11 +484,12 @@ footer {
     border-radius: 50px;
     cursor: pointer;
     transition: 0.4s;
-    border: 4px inset rgb(141, 141, 141);
+    border: 2px inset #fc8019;
 }
 
 .btn2:hover {
-    border: 4px outset rgb(141, 141, 141);
+    background-color: #e96901;
+    border: 2px outset #fc8019;
 }
 
 @media (max-width:1000px) {
