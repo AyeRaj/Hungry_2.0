@@ -454,7 +454,7 @@ footer {
     font-size: 2.5rem;
     /* padding: 12px; */
     margin: 20px auto;
-    box-shadow: 0px 4px 6px -5px;
+    box-shadow: 0px 4px 12px -10px;
 }
 
 .h-head {
@@ -507,5 +507,11 @@ footer {
     #home h1 {
         width: 90vw;
         /* font-size: 2rem; */
+    }
+    #specials img {
+        height: 12vw;
+    }
+    #specials {
+        justify-content: space-evenly;
     }
 }
