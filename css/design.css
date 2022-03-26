@@ -404,8 +404,8 @@ nav .content .links {
 #ExploreFood .box h2 a {
     color: black;
     display: block;
-    line-height: 40px;
-    padding: 20px 10px;
+    line-height: 50px;
+    /* padding: 20px 10px; */
     border-radius: 20px;
     text-decoration: none;
 }
