@@ -436,7 +436,7 @@ nav .content .links {
 }
 
 #specials img {
-    height: 9vw;
+    height: 6vw;
 }
 
 
@@ -473,7 +473,7 @@ footer {
     /* font-family: 'Bree Serif', serif; */
     font-size: 2.2rem;
     color: white;
-    padding: 12px;
+    /* padding: 12px; */
 }
 
 .h-secondary {
