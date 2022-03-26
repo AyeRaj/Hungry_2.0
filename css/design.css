@@ -492,8 +492,9 @@ footer {
     border: 2px outset #fc8019;
 }
 
-@media (max-width:1000px) {
+@media (max-width:900px) {
     #home h1 {
-        width: 70vw;
+        width: 90vw;
+        /* font-size: 2rem; */
     }
 }
