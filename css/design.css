@@ -448,18 +448,24 @@ footer {
 
 
 .h-primary {
+    /* border-top: 1px solid #d6d5d5;
+    border-bottom: 2px solid #d6d5d5; */
     font-family: 'Bree Serif', serif;
-    font-size: 3rem;
-    padding: 12px;
+    font-size: 2.5rem;
+    /* padding: 12px; */
+    margin: 20px auto;
+    box-shadow: 0px 4px 6px -5px;
 }
 
 .h-head {
+    /* border-bottom: 2px solid #d6d5d5; */
     font-family: 'Bree Serif', serif;
     font-size: 2.8rem;
     color: #000000;
     margin-top: 50px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     padding: 12px;
+    box-shadow: 0px 0px 10px -5px
 }
 
 .h-head2 {
@@ -470,6 +476,7 @@ footer {
 }
 
 .h-secondary {
+    /* border-bottom: 2px solid #d6d5d5; */
     /* font-family: 'Bree Serif', serif; */
     font-size: 2.3rem;
     /* padding: 12px; */
