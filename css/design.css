@@ -395,8 +395,8 @@ nav .content .links {
 
 #items .box img {
     padding: 5px;
-    height: 150px;
-    width: 150px;
+    height: 140px;
+    width: 140px;
     margin: auto;
     display: block;
 }
@@ -409,6 +409,7 @@ nav .content .links {
     border-radius: 20px;
     text-decoration: none;
 }
+
 
 #items .box p {
     font-family: 'Bree Serif', serif;
@@ -454,7 +455,7 @@ footer {
 
 .h-head {
     font-family: 'Bree Serif', serif;
-    font-size: 3.8rem;
+    font-size: 2.8rem;
     color: #000000;
     margin-top: 50px;
     margin-bottom: 10px;
@@ -491,7 +492,10 @@ footer {
     background-color: #e96901;
     border: 2px outset #fc8019;
 }
-
+#ExploreFood .box img {
+    height: 230px;
+    width: 230px;
+}
 @media (max-width:900px) {
     #home h1 {
         width: 90vw;
