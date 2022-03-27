@@ -40,7 +40,7 @@ html {
 }
 
 .wrapper {
-    background: rgb(220, 0, 60);
+    background: rgb(220, 0, 65);
     position: fixed;
     width: 100%;
 }
@@ -447,7 +447,7 @@ nav .content .links {
 
 
 footer {
-    background: rgb(220, 0, 60);
+    background: rgb(220, 0, 65);
     color: rgb(255, 255, 255);
     padding: 9px 20px;
     /* border-top: 2px solid rgb(127 127 127); */
