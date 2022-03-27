@@ -447,10 +447,10 @@ nav .content .links {
 
 
 footer {
-    background: #414141;
+    background: rgb(220, 0, 60);
     color: rgb(255, 255, 255);
     padding: 9px 20px;
-    border-top: 2px solid rgb(127 127 127);
+    /* border-top: 2px solid rgb(127 127 127); */
     letter-spacing: 2px;
 }
 
