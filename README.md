@@ -57,7 +57,7 @@ HTML & CSS only...
 ![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(100).png?raw=true)
 -
 
-### Navigation Bar View View
+### Navigation Bar View
 
 ![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(101).png?raw=true)
 -
