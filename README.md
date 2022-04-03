@@ -32,22 +32,44 @@ HTML & CSS only...
 - [Chrome](https://www.google.com/chrome/thank-you.html?brand=JJTC&statcb=1&installdataindex=empty&defaultbrowser=0#)
 
 
-## Screenshots
+## Desktop Screenshots
 
 ### Top View
 
-![App Screenshot](https://github.com/AyeRaj/hungry/blob/main/img/Screenshot%20(24).png?raw=true)
+![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(97).png?raw=true)
 -
 
-### Middle View
+### Main View
 
-![App Screenshot](https://github.com/AyeRaj/hungry/blob/main/img/Screenshot%20(25).png?raw=true)
+![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(98).png?raw=true)
 -
 
 ### Bottom View
 
+![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(99).png?raw=true)
 
-![App Screenshot](https://github.com/AyeRaj/hungry/blob/main/img/Screenshot%20(27).png?raw=true)
+<hr></hr>
+## Phone Screenshots
+
+### Top View
+
+![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(100).png?raw=true)
+-
+
+### Navigation Bar View View
+
+![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(101).png?raw=true)
+-
+### Main View
+
+
+![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(102).png?raw=true)
+
+### Bottom View
+
+
+![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(103).png?raw=true)
+
 -
 ## Feedback
 
