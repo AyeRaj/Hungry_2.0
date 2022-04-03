@@ -49,6 +49,7 @@ HTML & CSS only...
 ![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(99).png?raw=true)
 
 <hr></hr>
+
 ## Phone Screenshots
 
 ### Top View
