@@ -71,7 +71,7 @@ HTML & CSS only...
 
 ![App Screenshot](https://github.com/AyeRaj/Hungry_2.0/blob/master/img/Screenshot%20(103).png?raw=true)
 
--
+
 ## Feedback
 
 If you have any feedback, please reach out to us at ayerajkumar@gmail.com
