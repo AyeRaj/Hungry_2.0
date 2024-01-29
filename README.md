@@ -75,5 +75,5 @@ HTML & CSS only...
 
 ## Feedback
 
-If you have any feedback, please reach out to us at ayerajkumar@gmail.com
+If you have any feedback, please reach out to me https://linkedin.com/in/ayerajkumar
 
